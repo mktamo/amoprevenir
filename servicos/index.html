@@ -21,7 +21,7 @@
       // when a message is received from the page code
       window.onmessage = (event) => {
         if (event.data) {
-          document.getElementById("theMessage").value = event.data;
+          document.getElementById("theLabel").innerHTML = event.data;
         }
       };
 
