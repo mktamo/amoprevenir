@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
  
   new Typed('#typed3', {
-    strings: ['Encontre tudo sobre vacinas contra <strong>BCG</strong>', 'Encontre tudo sobre vacinas contra <strong>Hepatite A</strong>', 'Encontre tudo sobre vacinas contra <strong>Hepatite B</strong>', 'Encontre tudo sobre vacinas contra <strong>Meningocócica C conjugada</strong>', 'Encontre tudo sobre vacinas contra <strong>Febre Amarela</strong>', 'Encontre tudo sobre vacinas contra <strong>Febre Amarela</strong>', 'E muito mais!'],
+    strings: ['Encontre tudo sobre<br>vacinas contra <span style="font-family: 'Open Sans bold'">BCG</span>', 'Encontre tudo sobre <br>vacinas contra <span style="font-family: 'Open Sans bold'">Hepatite A</span>', 'Encontre tudo sobre <br>vacinas contra <span style="font-family: 'Open Sans bold'">Hepatite B</span>', 'Encontre tudo sobre <br>vacinas contra <span style="font-family: 'Open Sans bold'">Meningocócica C conjugada</span>', 'Encontre tudo sobre <br>vacinas contra <span style="font-family: 'Open Sans bold'">Febre Amarela</span>', 'Encontre tudo sobre <br>vacinas contra <span style="font-family: 'Open Sans bold'">Febre Amarela</span>', 'E muito mais!'],
     typeSpeed: 1,
     backSpeed: 1,
     smartBackspace: true,
